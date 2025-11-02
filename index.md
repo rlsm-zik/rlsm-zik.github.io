@@ -1,3 +1,3 @@
 # RLSM
-- [concerts](concerts.md)
-- [newsletter](newsletter.md)
+- [concerts](/concerts/)
+- [newsletter](/newsletter/)
