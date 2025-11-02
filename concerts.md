@@ -1,10 +1,8 @@
 ---
 layout: page
-title: concerts
+title: Concerts
 permalink: /concerts/
 ---
-
-# RLSM - Concerts
 
 Upcoming concerts:
 - 29 November 2025: **Private Event, Zurich, Switzerland**
