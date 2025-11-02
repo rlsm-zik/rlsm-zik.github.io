@@ -1,0 +1,12 @@
+title: RLSM
+
+author:
+  email: rlsm-zik@gmail.com
+
+# build settings
+theme: minima
+
+# plugins
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
