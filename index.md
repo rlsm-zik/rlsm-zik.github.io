@@ -10,6 +10,6 @@ layout: home
 
 - [concerts](concerts.md)
 - [newsletter](newsletter.md)
-
+- [electronic press kit](epk.md)
 
 
