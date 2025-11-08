@@ -13,12 +13,13 @@ Through intricate yet melodic guitar layers, silence, and live-projected black-a
 
 ## Contact Information / Links
 
-- Contacts: rlsm.zik@gmail.com / [instagram](https://www.instagram.com/rlsm____)
-- Links: https://linktr.ee/rlsm
+- Contacts: [rlsm.zik@gmail.com](mailto:rlsm.zik@gmail.com) / [instagram](https://www.instagram.com/rlsm____)
+- Links: [linktr.ee/rlsm](https://linktr.ee/rlsm)
+
 
 ## Videos / Live Performances
 
-"Tre", RLSM | Live Studio Session (With Visuals)
+"Tre", RLSM - Live Studio Session (With Visuals)
 
 <iframe
   width="560" height="315"
@@ -28,6 +29,15 @@ Through intricate yet melodic guitar layers, silence, and live-projected black-a
   allowfullscreen>
 </iframe>
 
+"Uno", RLSM - Live Studio Session (Guitar Only)
+
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/0KdV2sMPJSs"
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 
 ## Releases
