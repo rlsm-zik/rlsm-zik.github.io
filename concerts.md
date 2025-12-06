@@ -4,7 +4,15 @@ title: Concerts
 permalink: /concerts/
 ---
 
-Upcoming concerts:
-- 29 November 2025: **Private Event, Zurich, Switzerland**
-- 16 January 2026: **KuBaA, Zurich, Switzerland**
-- 26 March 2026: **TBA, Zurich, Switzerland**
+## Upcoming
+
+26.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
+
+13.02.2026: [Flux](https://www.flux-bar.ch/), Zurich
+
+16.01.2026: [KuBaA](https://www.kubaa.ch/), Zurich
+
+## Past
+
+29.11.2025: Zero Concert (Private), Zurich
+
