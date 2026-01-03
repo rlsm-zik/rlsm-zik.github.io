@@ -44,7 +44,7 @@ Through intricate yet melodic guitar layers, silence, and live-projected black-a
 
 ## Releases
 
-Debut album **"L'abisso è un muro"** ([preview](https://soundcloud.com/rlsm1/sets/labisso-e-un-muro)), set for release on 3 January 2026.
+Debut album **"L'abisso è un muro"** ([preview](https://soundcloud.com/rlsm1/sets/labisso-e-un-muro)), released on 3 January 2026.
 
 Album cover by [Franziska Martin](https://www.franziskamartin.ch/).
 
