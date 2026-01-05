@@ -12,6 +12,7 @@ permalink: /concerts/
 
 26.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
 
+03.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
 
 ## Past
 
