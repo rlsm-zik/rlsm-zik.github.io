@@ -8,7 +8,7 @@ permalink: /epk/
 
 RLSM is a Zurich-based solo guitar project blending post-rock tones and distorted textures into an immersive audiovisual experience with original live visuals. The work invites listeners into a space of contemplation, where drifting attention meets moments of emotional intensity and crescendos of awe that briefly draw focus to the performer before dissolving back into introspection.
 
-Through intricate yet melodic guitar layers, silence, and live-projected black-and-white imagery, RLSM explores instinct, ethics, society, and spiritual longing, offering no clear-cut answers but a space to confront doubt, inner drives, and the deeper forces beneath reason. The debut album, set for release in January 2026, is a five-track sonic journey that evokes inner landscapes and raw existence, guiding the audience through reflection, solitude, and emotional resonance.
+Through intricate yet melodic guitar layers, silence, and live-projected black-and-white imagery, RLSM explores instinct, ethics, society, and spiritual longing, offering no clear-cut answers but a space to confront doubt, inner drives, and the deeper forces beneath reason. The debut album "L'abisso è un muro" is a five-track sonic journey that evokes inner landscapes and raw existence, guiding the audience through reflection, solitude, and emotional resonance.
 
 
 ## Contact Information / Links
