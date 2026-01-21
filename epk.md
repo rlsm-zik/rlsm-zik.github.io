@@ -70,7 +70,7 @@ Press photos by [@stranger](https://www.instagram.com/stranger).
 ![RLSM](pics/RLSM9.jpg)
 
 
-## Artistic Formats
+## Formats
 
 - Visuals only: video projection of visuals with recorded music. Length can be from 3' to 30'.
 - Concert with guitar only: live guitar concert, up to 30'.
