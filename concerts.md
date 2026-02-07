@@ -12,7 +12,7 @@ permalink: /concerts/
 
 03.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
 
-11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - screening of visuals
+11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
 
 ## Past
 
