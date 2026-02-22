@@ -6,15 +6,15 @@ permalink: /concerts/
 
 ## Upcoming
 
-13.02.2026: [Flux](https://www.flux-bar.ch/), Zurich
+29.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
 
-26.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
-
-03.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
+10.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
 
 11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
 
 ## Past
+
+13.02.2026: [Flux](https://www.flux-bar.ch/), Zurich
 
 16.01.2026: [KuBaA](https://www.kubaa.ch/), Zurich
 
