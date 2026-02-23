@@ -12,6 +12,8 @@ permalink: /concerts/
 
 11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
 
+07.05.2026: [Kasheme](https://kasheme.com/), Zurich
+
 ## Past
 
 13.02.2026: [Flux](https://www.flux-bar.ch/), Zurich
