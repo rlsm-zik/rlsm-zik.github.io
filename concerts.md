@@ -6,8 +6,6 @@ permalink: /concerts/
 
 ## Upcoming
 
-29.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
-
 09.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
 
 11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
@@ -15,6 +13,8 @@ permalink: /concerts/
 07.05.2026: [Kasheme](https://kasheme.com/), Zurich
 
 ## Past
+
+29.03.2026: [Ponyhof34](https://ponyhof34.ch), Zurich
 
 13.02.2026: [Flux](https://www.flux-bar.ch/), Zurich
 
