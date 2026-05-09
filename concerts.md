@@ -6,11 +6,11 @@ permalink: /concerts/
 
 ## Upcoming
 
-11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
+## Past
 
 07.05.2026: [Kasheme](https://kasheme.com/), Zurich
 
-## Past
+11.04.2026: [Fotomuseum Winterthur](https://www.fotomuseum.ch/), Winterthur - video screening
 
 09.04.2026: [Alquímica Records](https://www.alquimicarecords.com), Zurich
 
