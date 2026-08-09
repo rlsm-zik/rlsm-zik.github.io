@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Booking / Info
+title: RLSM - Booking / Info
 permalink: /booking_info/
 ---
+
+## Contact Information / Links
+
+- Contacts: [rlsm.zik@gmail.com](mailto:rlsm.zik@gmail.com) / [instagram](https://www.instagram.com/rlsm____)
+- Links: [linktr.ee/rlsm](https://linktr.ee/rlsm)
 
 ## Bio
 
@@ -11,10 +16,6 @@ RLSM is a Zurich-based solo guitar project blending post-rock tones and distorte
 Through intricate yet melodic guitar layers, silence, and live-projected black-and-white imagery, RLSM explores instinct, ethics, society, and spiritual longing, offering no clear-cut answers but a space to confront doubt, inner drives, and the deeper forces beneath reason. The debut album "L'abisso è un muro" is a five-track sonic journey that evokes inner landscapes and raw existence, guiding the audience through reflection, solitude, and emotional resonance.
 
 
-## Contact Information / Links
-
-- Contacts: [rlsm.zik@gmail.com](mailto:rlsm.zik@gmail.com) / [instagram](https://www.instagram.com/rlsm____)
-- Links: [linktr.ee/rlsm](https://linktr.ee/rlsm)
 
 
 ## Videos / Live Performances
