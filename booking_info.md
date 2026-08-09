@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Electronic Press Kit
-permalink: /epk/
+title: Booking / Info
+permalink: /booking_info/
 ---
 
 ## Bio

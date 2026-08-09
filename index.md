@@ -9,6 +9,6 @@ layout: home
 ---
 
 - [concerts](concerts.md)
-- [electronic press kit](epk.md)
+- [booking / info](booking_info.md)
 
 
