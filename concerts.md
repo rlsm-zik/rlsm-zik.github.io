@@ -10,7 +10,7 @@ permalink: /concerts/
 
 15.10.2026: Flux, Zurich (CH)
 
-17.10.2026: Belleri, Piacenza (IT)
+17.10.2026: Vinilica, Cadeo PC (IT)
 
 18.10.2026: CIQ, Milano (IT)
 
